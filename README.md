@@ -8,8 +8,8 @@
 
 - 🌱 I’m currently learning HTML,CSS,JS,Python,C++
 
-- 👨‍💻 All of my projects are <a href="https://benozir-ahamed.github.io/Applied-Mathematics/index.html">Visit My Website</a>
-<a href="https://benozir-ahamed.github.io/Math-Note-Pro/index.html">Visit My Website</a>
+- 👨‍💻 All of my projects are<br> <a href="https://benozir-ahamed.github.io/Applied-Mathematics/index.html">Applied_Mathematics</a><br>
+<a href="https://benozir-ahamed.github.io/Math-Note-Pro/index.html">EduSpark</a>
 
 
 - 📫 How to reach me benozirahamedhridoy@gmail.com
