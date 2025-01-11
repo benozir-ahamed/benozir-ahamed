@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm [Benozir Ahamed Hridoy]</h1>
-<h3 align="center">A passionate [Programming] from [Bangladesh]</h3>
+<h1 align="center">Hi 👋, I'm Benozir Ahamed Hridoy</h1>
+<h3 align="center">A passionate Programming from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benozir-ahamed&label=Profile%20views&color=0e75b6&style=flat" alt="benozir-ahamed" /> </p>
 
