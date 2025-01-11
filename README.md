@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Benozir Ahamed Hridoy</h1>
-<h3 align="center">A passionate Programming from Bangladesh</h3>
+<h3 align="center">A passionate Programmer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benozir-ahamed&label=Profile%20views&color=0e75b6&style=flat" alt="benozir-ahamed" /> </p>
 
-- 🔭 I’m currently working on **[Web development]** 
+- 🔭 I’m currently working on Web development
 
-- 🌱 I’m currently learning **[HTML,CSS,JS,Python,C++]**
+- 🌱 I’m currently learning HTML,CSS,JS,Python,C++
 
-- 👨‍💻 All of my projects are available at [Your Portfolio Link](https://yourportfolio.com)
+- 👨‍💻 All of my projects are available at https://yourportfolio.com
 
-- 📫 How to reach me **[benozirahamedhridoy@gmail.com]**
+- 📫 How to reach me benozirahamedhridoy@gmail.com
 
-- ⚡ Fun fact **[Introvert]**
+- ⚡ Fun fact I am Introvert😓
 
 ---
 
